@@ -1,0 +1,27 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #ffffe0;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+p {
+    text-indent: 2em;
+    font-size: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    color: darkred;
+    font-style: normal;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+img {
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 14em ;
+}
